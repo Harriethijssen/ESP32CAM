@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "functional": "cpp"
+  },
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "scm.alwaysShowProviders": true,
+  "scm.alwaysShowActions": true
+}
